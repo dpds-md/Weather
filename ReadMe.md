@@ -51,9 +51,6 @@ The project architecture consists of the following components:
 - **Azure Key Vault**: Secure storage of secrets.
 - **Weather API**: Free tier API for real-time weather data.
 
-
-
-
 ---
 
 ## License
