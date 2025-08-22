@@ -41,16 +41,16 @@ The project architecture consists of the following components:
 
 ## Tools and Technologies
 
-![databricks](https://github.com/dpds-md/Weather/blob/main/icons/databricks.svg)
 
-- **Azure Databricks**: For scalable data injection and processing.
-- **Azure Functions**: Serverless compute for data injection.
-- **Azure Event Hub**: High-throughput data streaming service.
-- **Microsoft Fabric**: Real-time intelligence platform with Event Stream.
-- **Kusto DB**: Real-time storage of weather data.
-- **Power BI**: Real-time interactive dashboarding.
-- **Data Activator**: Real-time alerting and notifications.
-- **Azure Key Vault**: Secure storage of secrets.
+
+- ![databricks](https://github.com/dpds-md/Weather/blob/main/icons/databricks.svg) **Azure Databricks**: For scalable data injection and processing.
+- ![functions](https://github.com/dpds-md/Weather/blob/main/icons/function-hub.svg) **Azure Functions**: Serverless compute for data injection.
+- ![event-hub](https://github.com/dpds-md/Weather/blob/main/icons/event-hub.svg) **Azure Event Hub**: High-throughput data streaming service.
+- ![fabric](https://github.com/dpds-md/Weather/blob/main/icons/fabric.svg) **Microsoft Fabric**: Real-time intelligence platform with Event Stream.
+- ![kusto](https://github.com/dpds-md/Weather/blob/main/icons/kustodb.svg) **Kusto DB**: Real-time storage of weather data.
+- ![power-bi](https://github.com/dpds-md/Weather/blob/main/icons/bi.svg) **Power BI**: Real-time interactive dashboarding.
+- ![activator](https://github.com/dpds-md/Weather/blob/main/icons/data-activator.svg) **Data Activator**: Real-time alerting and notifications.
+- ![key](https://github.com/dpds-md/Weather/blob/main/icons/key-vaults.svg) **Azure Key Vault**: Secure storage of secrets.
 - **Weather API**: Free tier API for real-time weather data.
 
 
