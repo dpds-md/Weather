@@ -41,6 +41,8 @@ The project architecture consists of the following components:
 
 ## Tools and Technologies
 
+![databricks](https://github.com/dpds-md/Weather/blob/main/icons/databricks.svg)
+
 - **Azure Databricks**: For scalable data injection and processing.
 - **Azure Functions**: Serverless compute for data injection.
 - **Azure Event Hub**: High-throughput data streaming service.
